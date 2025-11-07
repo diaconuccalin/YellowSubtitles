@@ -1,0 +1,4 @@
+[submodule "VideoSubFinder"]
+	path = VideoSubFinder
+	url = https://github.com/diaconuccalin/VideoSubFinder.git
+	branch = YellowSubtitles
